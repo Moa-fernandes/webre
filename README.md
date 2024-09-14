@@ -97,6 +97,7 @@ webre/
 ├── src/                    # Código-fonte
 │   ├── train_model.py      # Script para treinar o modelo
 │   ├── webre_gui.py        # Script principal da interface gráfica
+I   I-  face_recognition_script.py
 │   ├── capture_faces.py    # Script para capturar rostos
 │
 ├── venv/                   # Ambiente virtual Python
@@ -221,6 +222,7 @@ webre/
 ├── src/                    # Source code
 │   ├── train_model.py      # Script to train the model
 │   ├── webre_gui.py        # Main script for the graphical interface
+I   I-  face_recognition_script.py
 │   ├── capture_faces.py    # Script to capture faces
 │
 ├── venv/                   # Python virtual environment
