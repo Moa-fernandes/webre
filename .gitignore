@@ -1,0 +1,31 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos do Jupyter Notebook
+*.ipynb_checkpoints
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de banco de dados SQLite
+*.sqlite3
+
+# Ignorar configurações específicas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de modelos grandes
+models/shape_predictor_68_face_landmarks.dat
+
+# Ignorar outras pastas/arquivos grandes
+*.exe
+*.dll
+*.lib
+*.pyd
+
+# Outras dependências locais
+*.env
