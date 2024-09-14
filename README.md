@@ -120,7 +120,6 @@ Este projeto está sob a licença MIT.
 
 ---
 
-### README.md (English)
 
 # WebRe - Facial Recognition and Emotion Detection
 
